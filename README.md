@@ -1248,7 +1248,7 @@ Note: the available user I/O amount varies with chip packaging.
 
 ## XC6200
 
-The XC6200 family is unusual in several ways<sup id=cite_ref-32 class=reference><a href=#cite_ref-32>[32]</a></sup>
+The XC6200 family is unusual in several ways<sup id=cite_ref-32 class=reference><a href=#cite_note-32>[32]</a></sup>
 
 * as opposed to other early FPGAs where a design always takes up the whole device and is synthesized once, then usually
 stored in flash storage, XC6200 is dynamically reconfigurable in arbitrarily small chunks (down to a single logic cell),
@@ -8532,7 +8532,7 @@ This list is [incomplete], but who the hell want to help WikiPedia when they rem
 29.  **[^](#cite_ref-29 "Jump up")** Xilinx. ["XC4000XLA/XV Field Programmable Gate Arrays"](https://www.xilinx.com/support/documentation/data_sheets/ds015.pdf) (PDF)
 30.  **[^](#cite_ref-30 "Jump up")** Xilinx. ["Spartan and Spartan-XL FPGA Families Data Sheet"](https://www.xilinx.com/support/documentation/data_sheets/ds060.pdf) (PDF)
 31.  **[^](#cite_ref-31 "Jump up")** Xilinx. ["XC5200 Series Field Programmable Gate Arrays"](https://www.xilinx.com/support/documentation/data_sheets/5200.pdf) (PDF)
-32.  **[^](#cite_ref-32 "Jump up")** ["XC6200 Field Programmable Gate Arrays"](https://web.archive.org/web/20030422115228/http://www.ii.uam.es/~laboweb/LabWeb/pdfs/6kconf.pdf) (PDF)
+32.  **[^](#cite_ref-32 "Jump up")** <sup id=cite_note-32</sup> ["XC6200 Field Programmable Gate Arrays"](https://web.archive.org/web/20030422115228/http://www.ii.uam.es/~laboweb/LabWeb/pdfs/6kconf.pdf) (PDF)
 33.  **[^](#cite_ref-33 "Jump up")** ["Spartan-II FPGA Family Data Sheet"](https://japan.xilinx.com/support/documentation/data_sheets/ds001.pdf) (PDF)
 34.  **[^](#cite_ref-34 "Jump up")** ["Virtex™ 2.5V Field Programmable Gate Arrays"](https://japan.xilinx.com/support/documentation/data_sheets/ds003.pdf) (PDF)
 35.  **[^](#cite_ref-35 "Jump up")** ["Virtex™-E 1.8V Field Programmable Gate Arrays"](https://japan.xilinx.com/support/documentation/data_sheets/ds022.pdf) (PDF)
