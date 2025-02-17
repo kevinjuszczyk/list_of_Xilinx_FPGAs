@@ -1248,7 +1248,7 @@ Note: the available user I/O amount varies with chip packaging.
 
 ## XC6200
 
-The XC6200 family is unusual in several ways[\[32\]](#cite_note-32)
+The XC6200 family is unusual in several ways<sup id=cite_ref-32 class=reference><a href=#cite_note-32>[32]</a></sup>
 
 * as opposed to other early FPGAs where a design always takes up the whole device and is synthesized once, then usually
 stored in flash storage, XC6200 is dynamically reconfigurable in arbitrarily small chunks (down to a single logic cell),
