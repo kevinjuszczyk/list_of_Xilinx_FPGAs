@@ -1248,7 +1248,7 @@ Note: the available user I/O amount varies with chip packaging.
 
 ## XC6200
 
-The XC6200 family is unusual in several ways[\[32\]](#cite_note-:8-32-0)
+The XC6200 family is unusual in several ways[\[75\]](#cite_note-32)
 
 * as opposed to other early FPGAs where a design always takes up the whole device and is synthesized once, then usually
 stored in flash storage, XC6200 is dynamically reconfigurable in arbitrarily small chunks (down to a single logic cell),
@@ -1258,7 +1258,7 @@ MUX](https://en.wikipedia.org/wiki/Multiplexer "Multiplexer") whose inputs can b
 implement arbitrary 2-input logic function) and a flip-flop
 * the routing structure is fully documented, unusually simple, and hierarchical in nature, with the device made of 16×16
 cell tiles and 4×4 cell blocks
-* the configuration data format is likewise fully documented in the data sheet,[\[32\]](#cite_note-:8-32-1) allowing (and
+* the configuration data format is likewise fully documented in the data sheet, allowing (and
 encouraging) users to create logic designs without using vendor tools
 * the part of configuration RAM that corresponds to unused area of circuit is explicitly allowed to be used for
 unrelated data storage
@@ -8532,7 +8532,7 @@ This list is [incomplete], but who the hell want to help WikiPedia when they rem
 29.  **[^](#cite_ref-29 "Jump up")** Xilinx. ["XC4000XLA/XV Field Programmable Gate Arrays"](https://www.xilinx.com/support/documentation/data_sheets/ds015.pdf) (PDF)
 30.  **[^](#cite_ref-30 "Jump up")** Xilinx. ["Spartan and Spartan-XL FPGA Families Data Sheet"](https://www.xilinx.com/support/documentation/data_sheets/ds060.pdf) (PDF)
 31.  **[^](#cite_ref-31 "Jump up")** Xilinx. ["XC5200 Series Field Programmable Gate Arrays"](https://www.xilinx.com/support/documentation/data_sheets/5200.pdf) (PDF)
-32.  ^ [Jump up to: _**a**_](#cite_ref-:8_32-0) [_**b**_](#cite_ref-:8_32-1) ["XC6200 Field Programmable Gate Arrays"](https://web.archive.org/web/20030422115228/http://www.ii.uam.es/~laboweb/LabWeb/pdfs/6kconf.pdf) (PDF)
+32.  **[^](#cite_ref-32 "Jump up")** ["XC6200 Field Programmable Gate Arrays"](https://web.archive.org/web/20030422115228/http://www.ii.uam.es/~laboweb/LabWeb/pdfs/6kconf.pdf) (PDF)
 33.  **[^](#cite_ref-33 "Jump up")** ["Spartan-II FPGA Family Data Sheet"](https://japan.xilinx.com/support/documentation/data_sheets/ds001.pdf) (PDF)
 34.  **[^](#cite_ref-34 "Jump up")** ["Virtex™ 2.5V Field Programmable Gate Arrays"](https://japan.xilinx.com/support/documentation/data_sheets/ds003.pdf) (PDF)
 35.  **[^](#cite_ref-35 "Jump up")** ["Virtex™-E 1.8V Field Programmable Gate Arrays"](https://japan.xilinx.com/support/documentation/data_sheets/ds022.pdf) (PDF)
